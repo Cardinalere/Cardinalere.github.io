@@ -41,7 +41,7 @@ Selected Publications
 ***ACL 2026*** 
 
 * **Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning**    
-**Kaiyi Zhang**#, Ang Lv#, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan
+**Kaiyi Zhang**#, Ang Lv#, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan    
 ***Findings of ACL 2024***
 
 * **An Analysis and Mitigation of the Reversal Curse**   
